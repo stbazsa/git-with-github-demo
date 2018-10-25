@@ -9,3 +9,4 @@ Disallow:
 # some line
 # Bazsa szerkeszt
 # Mar megint szerkeszt es fel is tolja
+# Ez pedig mar SSH-n keresztul lett feltolva

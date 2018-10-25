@@ -8,3 +8,4 @@ Disallow:
 
 # some line
 # Bazsa szerkeszt
+# Mar megint szerkeszt es fel is tolja
